@@ -115,6 +115,3 @@ Será exibida a mensagem:
 Calculadora encerrada.
 ```
 
-## Autor
-
-Projeto desenvolvido como exemplo de uma calculadora simples em Python utilizando menus e estruturas condicionais.
