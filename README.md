@@ -1,4 +1,4 @@
-# Calculadora em Python
+# Calculadora em Python para Ebac
 
 ## Descrição
 
